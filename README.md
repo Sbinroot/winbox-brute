@@ -7,7 +7,7 @@ Always obtain explicit permission before testing any network or system. Unauthor
 
 # Winbox Brut3F0rc3r
 
-A multithreaded Winbox (MikroTik) brute force tool with  Telegram notifications.
+A multithreaded Winbox (MikroTik) Brut3F0rc3r tool with  Telegram notifications.
 
 ---
 
